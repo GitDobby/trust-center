@@ -1,4 +1,4 @@
-# 🔐 Welcome to Our Trust Center
+
 
 Transparency. Security. Compliance.
 
